@@ -74,7 +74,8 @@ npm install semantic-ui-react semantic-ui-css moment --save
 ### Set Up Environment Variables
 
 1. Create a `.env` file in the root of your project.
-2. Add the following environment variables to the `.env` file:
+2. Create an account in OpeanWeather https://openweathermap.org/api
+3. Add the following environment variables to the `.env` file:
 
    ```env
    REACT_APP_API_URL='https://api.openweathermap.org/data/2.5'
